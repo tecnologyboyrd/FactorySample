@@ -30,6 +30,24 @@ namespace FactorySample
         }
     }
 
+    //Concret Creator
+    public class SubstractOprFactory : FactoryMathOpr
+    {
+        private decimal _valor1;
+        private decimal _valor2;
+
+        public SubstractOprFactory(decimal valor1, decimal valor2)
+        {
+            _valor1 = valor1;
+            _valor2 = valor2;
+        }
+
+        public override IMathOpr OprExec()
+        {
+            return new SubstractOpr(_valor1, _valor2);
+        }
+    }
+
 
     //Concret Product
     public class AdditionOpr : IMathOpr
@@ -46,6 +64,24 @@ namespace FactorySample
         public decimal OprExec(decimal valor1, decimal valor2)
         {
             return valor1 + valor2;
+        }
+    }
+
+    //Concret Product
+    public class SubstractOpr : IMathOpr
+    {
+        private decimal _valor1;
+        private decimal _valor2;
+
+        public SubstractOpr(decimal valor1, decimal valor2)
+        {
+            _valor1 = valor1;
+            _valor2 = valor2;
+        }
+
+        public decimal OprExec(decimal valor1, decimal valor2)
+        {
+            return valor1 - valor2;
         }
     }
 
