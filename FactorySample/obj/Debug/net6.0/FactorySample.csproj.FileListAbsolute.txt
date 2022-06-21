@@ -1,0 +1,15 @@
+C:\Users\lperez\source\repos\FactorySample\FactorySample\obj\Debug\net6.0\FactorySample.csproj.AssemblyReference.cache
+C:\Users\lperez\source\repos\FactorySample\FactorySample\obj\Debug\net6.0\FactorySample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lperez\source\repos\FactorySample\FactorySample\obj\Debug\net6.0\FactorySample.AssemblyInfoInputs.cache
+C:\Users\lperez\source\repos\FactorySample\FactorySample\obj\Debug\net6.0\FactorySample.AssemblyInfo.cs
+C:\Users\lperez\source\repos\FactorySample\FactorySample\obj\Debug\net6.0\FactorySample.csproj.CoreCompileInputs.cache
+C:\Users\lperez\source\repos\FactorySample\FactorySample\bin\Debug\net6.0\FactorySample.exe
+C:\Users\lperez\source\repos\FactorySample\FactorySample\bin\Debug\net6.0\FactorySample.deps.json
+C:\Users\lperez\source\repos\FactorySample\FactorySample\bin\Debug\net6.0\FactorySample.runtimeconfig.json
+C:\Users\lperez\source\repos\FactorySample\FactorySample\bin\Debug\net6.0\FactorySample.dll
+C:\Users\lperez\source\repos\FactorySample\FactorySample\bin\Debug\net6.0\FactorySample.pdb
+C:\Users\lperez\source\repos\FactorySample\FactorySample\obj\Debug\net6.0\FactorySample.dll
+C:\Users\lperez\source\repos\FactorySample\FactorySample\obj\Debug\net6.0\refint\FactorySample.dll
+C:\Users\lperez\source\repos\FactorySample\FactorySample\obj\Debug\net6.0\FactorySample.pdb
+C:\Users\lperez\source\repos\FactorySample\FactorySample\obj\Debug\net6.0\FactorySample.genruntimeconfig.cache
+C:\Users\lperez\source\repos\FactorySample\FactorySample\obj\Debug\net6.0\ref\FactorySample.dll
